@@ -2,8 +2,8 @@
 
 Aplicação guia para implementação de formulários:
 
-- TextFields customizados 
-- Validações
+- TextFields customizados. 
+- Validações.
 - Máscaras utilizando RegEx.
 
 
